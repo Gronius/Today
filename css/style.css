@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a:hover {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    }
+p {
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 46px;
+    color: #9810bd;
+    text-align: center;
+    padding: 30px;
+}
